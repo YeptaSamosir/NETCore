@@ -1,0 +1,283 @@
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.exe
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.deps.json
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.json
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.dev.json
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.pdb
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.AssemblyReference.cache
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfoInputs.cache
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfo.cs
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CoreCompileInputs.cache
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.Manifest.cache
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.xml
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\scopedcss\bundle\NETCore1.styles.css
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.RazorTargetAssemblyInfo.cache
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CopyComplete
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.dll
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.pdb
+C:\Users\MZ17\source\repos\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.genruntimeconfig.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.exe
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.deps.json
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.json
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.dev.json
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfoInputs.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CoreCompileInputs.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.Manifest.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.xml
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\scopedcss\bundle\NETCore1.styles.css
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.RazorTargetAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CopyComplete
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.genruntimeconfig.cache
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kampus Merdeka\week 2\25-8-2021\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.AssemblyReference.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.exe
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.deps.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.dev.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.AssemblyReference.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfoInputs.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CoreCompileInputs.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.Manifest.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.xml
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\scopedcss\bundle\NETCore1.styles.css
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.RazorTargetAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CopyComplete
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.genruntimeconfig.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.exe
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.deps.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.dev.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\NETCore1.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfoInputs.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.AssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CoreCompileInputs.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.Manifest.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\staticwebassets\NETCore1.StaticWebAssets.xml
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\scopedcss\bundle\NETCore1.styles.css
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.RazorTargetAssemblyInfo.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.CopyComplete
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.genruntimeconfig.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\NETCore1\obj\Debug\netcoreapp3.1\NETCore1.csproj.AssemblyReference.cache

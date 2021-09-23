@@ -1,0 +1,285 @@
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.exe
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.deps.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.runtimeconfig.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.runtimeconfig.dev.json
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.Views.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.Views.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.csproj.AssemblyReference.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.AssemblyInfoInputs.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.AssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.csproj.CoreCompileInputs.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.MvcApplicationPartsAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorAssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\staticwebassets\ImplementCors.StaticWebAssets.Manifest.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\staticwebassets\ImplementCors.StaticWebAssets.xml
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\scopedcss\bundle\ImplementCors.styles.css
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.TagHelpers.input.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.TagHelpers.output.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorCoreGenerate.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorTargetAssemblyInfo.cache
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorTargetAssemblyInfo.cs
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.Views.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.csproj.CopyComplete
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.dll
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.pdb
+D:\Kampus Merdeka\week 2\25-8-2021\Netcoree\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.genruntimeconfig.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NETCore1.deps.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NETCore1.runtimeconfig.dev.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NETCore1.exe
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.exe
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.deps.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.runtimeconfig.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.runtimeconfig.dev.json
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.Views.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ImplementCors.Views.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NETCore1.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\bin\Debug\netcoreapp3.1\NETCore1.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.csproj.AssemblyReference.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.AssemblyInfoInputs.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.AssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.csproj.CoreCompileInputs.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorAssemblyInfo.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorAssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\staticwebassets\ImplementCors.StaticWebAssets.Manifest.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\staticwebassets\ImplementCors.StaticWebAssets.xml
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\scopedcss\bundle\ImplementCors.styles.css
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.TagHelpers.input.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.TagHelpers.output.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorCoreGenerate.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Chart\Chart.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\LatihanCSS\Index.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Person\Person.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\TestCors\Index.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorTargetAssemblyInfo.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.RazorTargetAssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.Views.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.csproj.CopyComplete
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.dll
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.pdb
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\ImplementCors.genruntimeconfig.cache
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Pluginnnnn\source\repos\API\NetCore\NETCore1\ImplementCors\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs

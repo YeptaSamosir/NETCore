@@ -1,0 +1,48 @@
+﻿#bungkus {
+    border: 3px solid #2F4858;
+    border-radius:8px;
+    padding: 20px;
+    width: 730px;
+    margin: auto;
+}
+#container {
+    margin: auto;
+    padding: 30px;
+    border: 2px solid #2F4858;
+}
+#judul {
+    border: 2px solid #2F4858;
+    padding: 20px;
+}
+#a, #b {
+    border: 2px solid #2F4858;
+    padding: 30px;
+    margin-top: 15px;
+}
+.p1, .p2, .p3 {
+    border: 2px solid #2F4858;
+    padding: 20px;
+}
+
+a {
+    border: 2px solid #2F4858;
+    padding: 10px;
+}
+
+ul {
+    border: 2px solid #2F4858;
+    padding: 10px;
+}
+li {
+    border: 2px solid #2F4858;
+    padding: 10px;
+    margin: 10px;
+    background-color: #008352;
+    color:white;
+}
+.p1:hover, .p2:hover, .p3:hover {
+    background-color: #3E9440;
+}
+ul li:first-child(2){
+    background-color:red;
+}

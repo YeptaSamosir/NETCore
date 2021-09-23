@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NETCore1", "NETCore1\NETCore1.csproj", "{FDE99CBD-463E-444F-BEAC-F58912A7DB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementCors", "ImplementCors\ImplementCors.csproj", "{A6FB4FB6-BBE9-4FCC-B4E8-4D748B96BE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE99CBD-463E-444F-BEAC-F58912A7DB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE99CBD-463E-444F-BEAC-F58912A7DB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE99CBD-463E-444F-BEAC-F58912A7DB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE99CBD-463E-444F-BEAC-F58912A7DB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FB4FB6-BBE9-4FCC-B4E8-4D748B96BE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FB4FB6-BBE9-4FCC-B4E8-4D748B96BE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FB4FB6-BBE9-4FCC-B4E8-4D748B96BE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FB4FB6-BBE9-4FCC-B4E8-4D748B96BE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027DF572-5E62-4949-8C25-A9DB56E87C26}
+	EndGlobalSection
+EndGlobal
